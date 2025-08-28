@@ -23,15 +23,16 @@ const PersonalMessage: React.FC<PersonalMessageProps> = ({ name, admirer }) => {
             <p className="text-lg leading-relaxed text-gray-600 mb-6">
               On this special day, I want you to know even though if u dont consider my efforts I'll keep loving u . 
               I'll be the one who admires u from distance and will wait for u not knowing if u'll be mine or not.
+              my soul screams those 3 words every time i watch u from a distance , my eyes are always searching for u everyday.
             </p>
             
             <p className="text-lg leading-relaxed text-gray-600 mb-6">
               Dont take this website as cringe lol , I made it with AI but still ya only for u .
-              I hope it brings a smile to your face 
+              I hope my words bringe a little smile on your face. 
             </p>
             
             <p className="text-lg leading-relaxed text-gray-600 mb-8">
-              May this birthday be a lovely and happy one for u sush.
+              May this birthday be a lovely and happy one for u sushh.
             </p>
             
             <div className="text-xl text-red-500 font-script">
